@@ -1,0 +1,6 @@
+What Git does
+What staging means
+What Commiting means
+The commands you used
+One thing you struggled with
+One thing you understand clearly
