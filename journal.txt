@@ -1,6 +1,10 @@
-What Git does
-What staging means
-What Commiting means
-The commands you used
-One thing you struggled with
-One thing you understand clearly
+One thing you struggled with. I struggled with understanding the vocabulary words.
+One thing you understand clearly. I understand the concept of intergers and floats.
+What is a variable? A variable i named container that stores value. EX: age = 25, age is the name and 25 is the value store into it.
+Basic Data types.
+int-->whole numbers (1,5,100)
+float-->numers with decimals (3.14,2.5)
+str-->text("hello") ex: string
+bool-->true or false
+Why does input() return a string? Because Python does not assume what type the user is entering.
+"25" won't work you have to do int("35")
