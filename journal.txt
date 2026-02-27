@@ -8,3 +8,9 @@ str-->text("hello") ex: string
 bool-->true or false
 Why does input() return a string? Because Python does not assume what type the user is entering.
 "25" won't work you have to do int("35")
+
+Today I learned about validation and making a simple project
+I assigned variables and used if else to help assign letter grades when 
+asking what you got on the test to out put a letter grade.
+I was able to get help with this but still need practice to be able to do this
+from tmemory. I understand some things but will continue practicing. 
